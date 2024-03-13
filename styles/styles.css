@@ -209,7 +209,7 @@ main .section.highlight {
   background-color: var(--light-color);
 }
 @media (width <= 600px) {
-  .highlight p{
+  .highlight p strong{
   display:none;
 }
 }
