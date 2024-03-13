@@ -194,9 +194,6 @@ main .section {
   main .section {
     padding: 64px 32px;
   }
-  .highlight p{
-  display:none;
-}
 }
 
 @media (width >= 900px) {
